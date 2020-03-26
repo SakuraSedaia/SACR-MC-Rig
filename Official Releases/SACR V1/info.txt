@@ -1,0 +1,8 @@
+Sakuras Advanced Character Rig is a Minecraft Character rig Designed and built in Blender 2.8. The SACR is technically the SAMR V2 (Spatials Advanced Minecraft Rig), but due to me not going by Spatial anymore the name no longer fit so I changed it to Sakuras Advanced Character Rig.
+
+Features:
+  Advanced Facerig
+  HD Skin+Eye Support
+  125 Degree Sharp Bends
+  FK/Global IK/Local IK Controls for Arms
+  
