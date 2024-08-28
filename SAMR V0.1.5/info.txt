@@ -1,0 +1,16 @@
+Spatial's Advanced Minecraft Rig V0.1.5 Alpha
+
+Features:
+    * 125 Degree Sharp Bends
+    * FK, IK & Global IK
+    * Added Toggle Switches
+    * Smooth Torso Bends
+    - No Face Rig
+    
+    
+Changelog Alpha V0.1.5:
+    * Revamped Torso
+    + Wrists
+    + Global and Local IK
+    + Controlers to Toggle Objects and Modes
+    - Still no Facerig

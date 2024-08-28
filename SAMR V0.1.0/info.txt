@@ -1,0 +1,12 @@
+Spatial's Advanced Minecraft Rig V0.1.0 Alpha
+
+Features:
+    *High Poly Mesh (6456 Tris)
+    *Triangulated Mesh
+    *120 Degree Sharp Bends
+    *FK Only Rig
+    *Smooth Torso Bends
+    -No Face Rig
+    
+Changelog:
+    No Changed have been made
