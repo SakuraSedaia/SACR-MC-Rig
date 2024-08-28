@@ -12,7 +12,7 @@ In an effort to promote better organization, each archived version of SACR has b
 
 Starting in Revision 4, a new Repository was setup called SACR Experimental. This repository focuses on experimenting with possible features, everything featured in Experimental Builds are subject to change. During the development of Revision 7, the entire structure of SACR's Git Repositories were changed, with each major version getting their own branch within the primary, stable release repository and all Experimental builds being merged into the main repo into their respective major versions.
 
-Development Rigs will be labeled `EX.X_XX_Proto_X` rather than the usual `RX.X.X`, and Changelogs will be labeled `EX.X.X` rather than `RX.X.X`.
+Development Rigs historically will be labeled `EX.X.X-<alpha or beta>.X` rather than the usual `RX.X.X`, and Changelogs will be labeled `EX.X.X-<alpha or beta>.X` rather than `RX.X.X`.
 
 -----
 
