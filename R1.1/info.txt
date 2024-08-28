@@ -1,0 +1,24 @@
+Sakuras Advanced Character Rig is a Minecraft Character rig Designed and built in Blender 2.8. The SACR is technically the SAMR V2 (Spatials Advanced Minecraft Rig), but due to me not going by Spatial anymore the name no longer fit so I changed it to Sakuras Advanced Character Rig.
+
+Features:
+  Advanced Facerig
+  HD Skin+Eye Support
+  125 Degree Sharp Bends
+  FK + Global IK + Local IK Controls for Arms
+  
+Changelog V1.1:
+    Changes
+        * Fixed IK Arm Switchers, should work properly now
+        * Adjusted Torso Deformations, should look cleaner in renders now
+        * Changed a few Bone Shapes
+        * Lowered SubDiv Levels, should run smother with Anti-Lag Disabled
+        * Alex Arms now change Bone Position and Shape to Compensate
+        * Material Management and Extrude Head are now Selectable by Default
+	* Fixed slight Issue with one of the Advanced Eye Controlers
+    
+    Additions
+        + Teeth
+	+ HD Eye Easy UV Switcher
+
+    Removed Features
+	- Extrude Rig was not created alongside base rig, therefor it is not included
