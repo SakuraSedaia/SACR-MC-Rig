@@ -1,4 +1,4 @@
-# SACR Revision E7.1 Prototype 1
+# SACR Revision E7.1 Alpha 1
 
 ### Global Changes
 
