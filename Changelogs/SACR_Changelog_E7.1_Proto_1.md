@@ -1,9 +1,4 @@
-# Sakura's Advanced Character Rig
-
-## Latest Version: E7.1
-
---------
-SACR Revision 7:
+# SACR Revision E7.1 Prototype 1
 
 ### Global Changes
 
