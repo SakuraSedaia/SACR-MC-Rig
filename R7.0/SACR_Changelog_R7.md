@@ -1,6 +1,6 @@
 # Sakura's Advanced Character Rig
 
-## Latest Version: R7_Proto5
+## Latest Version: R7
 
 --------
 SACR Revision 7:
