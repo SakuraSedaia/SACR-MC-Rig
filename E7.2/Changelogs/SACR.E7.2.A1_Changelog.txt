@@ -1,0 +1,60 @@
+# Sakura's Advanced Character Rig
+
+## File Info
+
+Dev Version: 8_A.1
+Latest Stable: R7.1.1
+Blender 4.3.2
+Scripts: 0
+
+---
+Alpha 1
+
+---
+
+## Outliner
+
+### Outliner Adjustments
+
+- Slight reorganization of outliner
+- Removed redundant Prefixes from a lot of objects
+
+## Armature 
+
+### Armature Adjustments
+
+- Subdivided Chest and Hip bone for more flexible torso bending options
+- Changed multiple bones from Quaternation to XYZ Euler
+- Edited and adjusted Modifiers for Mouth Rig, making the Mouth easier to control
+- Square Mouth and Round Mouth exist with the same bones, and can be smoothly switched between
+- Reorganized Bone Collections into Trees and updated Drivers
+
+### Armature Additions
+
+- Re-Added Modifier to automatically move Mouth Parent
+
+---
+
+## Mesh
+
+### Mesh Adjustments
+
+- Removed Redundant Eyesparkle Mesh
+- Square Mouth and Round Mouth exist on the same Face Object, and can be smoothly switched between
+- Renamed Multiple Objects to maintain Consistency
+
+### Mesh Additions
+
+- Added Driver to Automatically hide Eyebrows when Depth is approximately 0 to prevent Z Fighting
+
+---
+
+## Materials
+
+### Material Adjustments
+
+- Updated Iris & Sclera Materials to R8
+  - Eyesparkle now embedded into Iris Material
+  - Scale Controllers added to Pupil options
+- Updated Eyebrow Material to R4 and condensed UV's
+- Various Toggles switched to Boolean Checkmarks
