@@ -2,9 +2,9 @@
 
 ## File Info
 
-Dev Version: 8_A.1
+Dev Version: E7.2 Alpha 1
 Latest Stable: R7.1.1
-Blender 4.3.2
+Blender 4.4
 Scripts: 0
 
 ---
@@ -18,6 +18,7 @@ Alpha 1
 
 - Slight reorganization of outliner
 - Removed redundant Prefixes from a lot of objects
+- Marked the Master Collection as an Asset, making importing SACR into other scenes easier
 
 ## Armature 
 
@@ -28,10 +29,12 @@ Alpha 1
 - Edited and adjusted Modifiers for Mouth Rig, making the Mouth easier to control
 - Square Mouth and Round Mouth exist with the same bones, and can be smoothly switched between
 - Reorganized Bone Collections into Trees and updated Drivers
+- Indivudal Teeth Controllers exposed and made accessible to users
 
 ### Armature Additions
 
 - Re-Added Modifier to automatically move Mouth Parent
+- Added Bone Shapes for Teeth Controlelrs
 
 ---
 
