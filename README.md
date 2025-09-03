@@ -6,11 +6,7 @@ Revision 7 contains many improvements and changes over it's predecessor, Revisio
 
 ## Future Plans
 
-Revision 8 has begun the development phase, before the plan was to continue off of Revision 7, I later decided to completely rebuild the rig from scratch because there are some fundamental items I wanted to change in R7 that would be too tedious to change over otherwise. Instead of relying on the rudamentary property system that SACR has traditionally used since it's inception back in SAMR V1, Revision 8 will make use of a Python script to append and configure the rig. While this is the current plan, it is too early to reveal further details regarding the development. The overall goal of SACR remains, a lightweight, easily customizable rig, and I intend to spend as much time as necessary to ensure the rig and Python script is production ready before releasing the full rig to the public.
-
-## FAQ
-
-A questionaire has been created to handle some questions that may arrise from the development
+Plans for Revision 8 are in the works, however I am still unsure whether to continue off the R7 platform or rebuild the rig with a new architecture.
 
 -----
 
