@@ -14,6 +14,7 @@ Blender 4.5
 ### Object Changes
 
 - Reset Rig Position
+- Parented the Armor Master object to the Armature
 
 ---
 
